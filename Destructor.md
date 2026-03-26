@@ -17,8 +17,8 @@ To create a Python program with a destructor and print a message when an object 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 class Employee:
     def __init__(self):
         print("Employee created.")
