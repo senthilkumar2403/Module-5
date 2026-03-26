@@ -19,8 +19,8 @@ To write a Python program using a class to perform addition of two numbers using
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 class Addition:
     def __init__(self, a, b):
         self.a = a
