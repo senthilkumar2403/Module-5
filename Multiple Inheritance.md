@@ -20,8 +20,8 @@ To write a Python program to calculate Addition, Subtraction and Division using 
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 class Add:
     def __init__(self, a, b):
         self.a = a
