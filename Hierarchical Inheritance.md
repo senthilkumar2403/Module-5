@@ -21,8 +21,8 @@ To write a Python program to get the name, attendance and Id of a student and ch
 ---
 ### PROGRAM
 ```python
-# Reg.No- 212222060154
-# Name- Mugilan J
+# Reg.No- 212222060234
+# Name- Senthilkumar K
 class Student:
     def __init__(self, name, id):
         self.name = name
